@@ -1,3 +1,5 @@
-Alert(“Hola mundo”)
+//paso b
+Alert(“Hola mundo_editado”); 
+Console.log (“cambios en el archivo”); 
 
-system.out.println("Hola mundo")
+
